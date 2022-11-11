@@ -4,6 +4,16 @@ Task list:
 * Understand the concept of branch, tag
 * Be familiar with the common Git CLI operation
 
-## Git CLI
+A branch in Git is simply a lightweight movable pointer to commits.
 
-## GitHub CLI
+## Tool
+There are some tools you can choose when you are using git:
+* [git](https://git-scm.com/)
+* [Sourcetree](https://www.sourcetreeapp.com/)
+* [GitHub CLI](https://cli.github.com/)
+* [GitHub Desktop](https://desktop.github.com/)
+
+### Git CLI
+
+
+### GitHub CLI
