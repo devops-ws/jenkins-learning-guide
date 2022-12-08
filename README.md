@@ -85,7 +85,19 @@ Task list:
 * Create a GitHub multi-branch Pipeline
 * Understand some important setting items
 
+### Configuration as Code
+TODO
+
+See also [the official document](https://github.com/jenkinsci/configuration-as-code-plugin).
+
 ### Run in Kubernetes
+TODO
+
+### SharedLibrary
+TODO
+
+### Custom package
+TODO
 
 ## Others
 Please visit the following links if you prefer other languages:
