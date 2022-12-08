@@ -92,3 +92,6 @@ Please visit the following links if you prefer other languages:
 | Language | Link |
 |---|---|
 | 中文 | [Bilibili](https://www.bilibili.com/video/BV1fp4y1r7Dd/?vd_source=ca1041974e9b44975cc4d5355ad7001f) |
+
+## References
+* [DevOps Practice Guide](https://github.com/LinuxSuRen/devops-practice-guide)
